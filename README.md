@@ -1,4 +1,4 @@
 # Curso Git
 
 
-Curso Git mastermind
+Curso Git Mastermind
